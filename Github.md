@@ -27,6 +27,6 @@
    - For this use your email address used in Github account.
        * $ git config --global user.name “your name”
        * Eg:- $ git config --global user.name “George Bernard”
-         - For this use your name in Github account. You can find your email and name in the settings of the Github account.  
-  
+   - For this use your name in Github account. You can find your email and name in the settings of the Github account.  
+  ---
   
