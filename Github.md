@@ -20,7 +20,7 @@
      * Eg:- $ git clone https://github.com/Newuser/NewRepository.git
   - Close the bash terminal and, now you have successfully cloned your GitHub repository to your local machine.
 
-#### Step 5
+### Step 5
    - We should log into GitHub to push the file to the repository, run the following commands.
        * $ git config --global user.email “you@example.com”
        * Eg:- $ git config --global user.email “123abc@gmail.com”
