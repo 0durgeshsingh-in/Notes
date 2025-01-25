@@ -8,13 +8,13 @@
   - Then download and install GitLFS on your pc.
   - Download link: https://git-lfs.github.com/
 
-#### Step 3
+### Step 3
   - Now clone your GitHub repository to your local machine.
   - First go to your repository and copy the ‘clone/download’ URL.
   - Next, create a new folder in your pc wherever you prefer: this is to clone the copy of your GitHub repository to your pc.
   - Then right-click the background and click ‘Git Bash Here’ as follows.
 
-#### Step 4
+### Step 4
   - Then run the following command in the bash terminal opened.
      * $ git clone link you copied
      * Eg:- $ git clone https://github.com/Newuser/NewRepository.git
