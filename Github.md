@@ -1,10 +1,10 @@
 # Github Documents
 
-#### Step 1
+### Step 1
   - Download and install Git on your pc.
   - Download link:- https://git-scm.com/downloads
 
-#### Step 2
+### Step 2
   - Then download and install GitLFS on your pc.
   - Download link: https://git-lfs.github.com/
 
