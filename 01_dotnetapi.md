@@ -1,7 +1,7 @@
 # STEP 1. Model
   - Create the Model Folder and add class
 
-```
+```C#
 namespace _0durgeshsingh.Models
 {
     public class Person
