@@ -125,6 +125,23 @@ namespace _0durgeshsingh.Controllers
 }
 ```
 
+## Step 4. Configure Connection 
+```C#
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
+    },
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=.\\;Database=0durgeshsingh;User Id=sa;Password=default;TrustServerCertificate=true;"
+    },
+    "AllowedHosts": "*"
+}
+```
+
+
 
 
 
